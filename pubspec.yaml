@@ -1,5 +1,7 @@
 name: trading_app
-description: Demo Trading App Forex Crypto Stocks Gold Live Chart
+description: Demo Trading App Forex Crypto Stocks
+publish_to: 'none'
+
 version: 1.0.0+1
 
 environment:
@@ -9,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  dev_dependencies:
+
+dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
